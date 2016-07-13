@@ -11,39 +11,36 @@ function run() {
 	var content = fs.readFileSync('weike-s.txt').toString().trim();
 	var rows = content.split('\n');
 
-	var allObj=[];
+	var allObj = [];
 	for (let i = 0; i < rows.length; i++) {
 		let oneObj = {};
+		oneObj.definition = [];
 
 		let div = document.createElement('div');
-		div.innerHTML = rows[i];
+		div.innerHTML = rows[i].trim();
+
+		let word = div.childNodes[0].textContent.trim();
+		oneObj.word = word;
 
 		let font = div.getElementsByTagName('font')[0];
 		font.parentNode.removeChild(font);
 
-		let word = font.childNodes[0].textContent.trim();
-		oneObj.word = word;
-
 		let p = div.getElementsByTagName('p')[0];
-		let pText = p.textContent.trim();
 
-		let arr = [];
-		let sections = pText.split('\\n');
-		for (let j = 0; j < sections.length; j++) {
-			let sec = sections[j].trim();
-			
-			if (sec && sec.indexOf('[') > -1) {
-				oneObj.pron=sec.trim();
-			}
-			else {
-				if (sec !== "") {
-					arr.push(sec);
+		for (let j = 0; j < p.childNodes.length; j++) {
+			let c = p.childNodes[j];
+			if (c.textContent &&
+				c.textContent.trim() != "" &&
+				c.textContent.trim() != "\\n" &&
+				c.nodeName !== 'br') {
+				if (c.textContent.indexOf('[') > -1) {
+					oneObj.pron = c.textContent.replace('\\n', '');
+				} else {
+					oneObj.definition.push(c.textContent.replace('\\n', ''));
 				}
 			}
 		}
-		
-		oneObj.definition=arr;
 		allObj.push(oneObj);
 	}
-	fs.writeFileSync('result.txt',JSON.stringify(allObj,null,4));
+	fs.writeFileSync('result.txt', JSON.stringify(allObj, null, 4));
 }
