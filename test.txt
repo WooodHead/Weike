@@ -1,9 +1,0 @@
-﻿aba	<p><font color=blue size=5><b>aba</font></b>\n<br>[ə'bɑː ,ɑː'bɑː]\n<br>n.  駱駝的毛織品\n
-abacus	<p><font color=blue size=5><b>abacus</font></b>\n<br>[ab·a·cus || 'æbəkəs]\n<br>n.  算盤\n
-albinism  	<p><font color=blue size=5><b>albinism  </font></b>\n<br>n.  白化病; 皮膚變白症\n
-albino	<p><font color=blue size=5><b>albino</font></b>\n<br>[al·bi·no || æl'biːnəʊ]\n<br>n.  白化變種, 白化病者, 白公\n
-Albion	<p><font color=blue size=5><b>Albion</font></b>\n<br>[Al·bion || 'ælbɪən]\n<br>n.  英格蘭的舊稱\n
-albuginea  	<p><font color=blue size=5><b>albuginea  </font></b>\n<br>n.  白膜\n
-album	<p><font color=blue size=5><b>album</font></b>\n<br>[al·bum || 'ælbəm]\n<br>n.  相簿; 來賓簽到簿; 集郵簿; 唱片集, 唱片套冊; 專輯\n
-albumen	<p><font color=blue size=5><b>albumen</font></b>\n<br>[al·bu·men || 'ælbjʊmɪn]\n<br>n.  蛋白; 胚乳\n
-albumin	<p><font color=blue size=5><b>albumin</font></b>\n<br>[al·bu·min || 'ælbjʊmɪn]\n<br>n.  蛋白; 白朊\n

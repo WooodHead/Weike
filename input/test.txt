@@ -1,0 +1,49 @@
+﻿cat	<p><font color=blue size=5><b>cat</font></b>\n<br>[kæt]\n<br>n.  猫, 恶妇; 计算机辅助教育, 计算机辅助翻译, 计算机辅助测试\n<br>v.  呕吐\n
+aba	<p><font color=blue size=5><b>aba</font></b>\n<br>[ə'bɑː ,ɑː'bɑː]\n<br>n.  駱駝的毛織品\n
+abacus	<p><font color=blue size=5><b>abacus</font></b>\n<br>[ab·a·cus || 'æbəkəs]\n<br>n.  算盤\n
+albinism  	<p><font color=blue size=5><b>albinism  </font></b>\n<br>n.  白化病; 皮膚變白症\n
+albino	<p><font color=blue size=5><b>albino</font></b>\n<br>[al·bi·no || æl'biːnəʊ]\n<br>n.  白化變種, 白化病者, 白公\n
+Albion	<p><font color=blue size=5><b>Albion</font></b>\n<br>[Al·bion || 'ælbɪən]\n<br>n.  英格蘭的舊稱\n
+albuginea  	<p><font color=blue size=5><b>albuginea  </font></b>\n<br>n.  白膜\n
+album	<p><font color=blue size=5><b>album</font></b>\n<br>[al·bum || 'ælbəm]\n<br>n.  相簿; 來賓簽到簿; 集郵簿; 唱片集, 唱片套冊; 專輯\n
+albumen	<p><font color=blue size=5><b>albumen</font></b>\n<br>[al·bu·men || 'ælbjʊmɪn]\n<br>n.  蛋白; 胚乳\n
+albumin	<p><font color=blue size=5><b>albumin</font></b>\n<br>[al·bu·min || 'ælbjʊmɪn]\n<br>n.  蛋白; 白朊\n
+cast a shadow  	<p><font color=blue size=5><b>cast a shadow  </font></b>\n<br>投下阴影\n
+cast aside  	<p><font color=blue size=5><b>cast aside  </font></b>\n<br>消除; 废除\n
+cast a spell on  	<p><font color=blue size=5><b>cast a spell on  </font></b>\n<br>用符咒镇住, 迷住\n
+cast away  	<p><font color=blue size=5><b>cast away  </font></b>\n<br>丢掉; 浪费\n
+castaway  	<p><font color=blue size=5><b>castaway  </font></b>\n<br>n.  被抛弃的人; 漂流者; 坐船遇难者\n
+caste	<p><font color=blue size=5><b>caste</font></b>\n<br>[kɑːst]\n<br>n.  印度的世袭阶级; 种姓制度; 社会团体\n
+casteless  	<p><font color=blue size=5><b>casteless  </font></b>\n<br>adj.  没有社会阶级的; 无任何阶级的\n
+castellan	<p><font color=blue size=5><b>castellan</font></b>\n<br>[cas·tel·lan || 'kæstələn]\n<br>n.  城堡主; 寨主\n
+castellated	<p><font color=blue size=5><b>castellated</font></b>\n<br>['cas·tel·lat·ed || 'kæstɪleɪtɪd]\n<br>adj.  造成城形的, 构造如城的, 有城的\n
+caster	<p><font color=blue size=5><b>caster</font></b>\n<br>[cast·er || 'kɑːstə]\n<br>n.  投手, 轮脚, 调味瓶\n
+castigate	<p><font color=blue size=5><b>castigate</font></b>\n<br>[cas·ti·gate || 'kæstɪgeɪt]\n<br>v.  申斥; 矫正; 惩罚; 修订\n
+castigation	<p><font color=blue size=5><b>castigation</font></b>\n<br>[cas·ti·ga·tion || ‚kæstɪ'geɪʃn]\n<br>n.  申斥, 严厉批评; 惩罚\n
+castigator  	<p><font color=blue size=5><b>castigator  </font></b>\n<br>n.  惩罚者; 修订者\n
+castigatory  	<p><font color=blue size=5><b>castigatory  </font></b>\n<br>adj.  斥责的; 修订的; 惩罚的\n
+castile  	<p><font color=blue size=5><b>castile  </font></b>\n<br>n.  橄榄香皂\n
+castile soap  	<p><font color=blue size=5><b>castile soap  </font></b>\n<br>橄榄香皂, 有橄榄油的香皂\n
+Castilian  	<p><font color=blue size=5><b>Castilian  </font></b>\n<br>n.  卡斯提语, 西班牙的官方语言; 西班牙卡斯提区的地方语\n
+casting	<p><font color=blue size=5><b>casting</font></b>\n<br>[cast·ing || 'kɑːstɪŋ]\n<br>n.  投掷, 角色, 铸成品\n
+cast iron  	<p><font color=blue size=5><b>cast iron  </font></b>\n<br>铸铁; 锻铁\n
+castle	<p><font color=blue size=5><b>castle</font></b>\n<br>[cas·tle || 'kɑːsl]\n<br>n.  城堡, 棋子\n<br>v.  置于城堡中, 筑城堡防御\n
+castles in the air  	<p><font color=blue size=5><b>castles in the air  </font></b>\n<br>空中楼阁\n
+cast lots  	<p><font color=blue size=5><b>cast lots  </font></b>\n<br>抽签\n
+cast off  	<p><font color=blue size=5><b>cast off  </font></b>\n<br>放出; 脱下\n
+castor	<p><font color=blue size=5><b>castor</font></b>\n<br>[cas·tor || 'kɑːstə]\n<br>n.  海狸; 海狸皮#脚轮\n
+castor oil  	<p><font color=blue size=5><b>castor oil  </font></b>\n<br>蓖麻油\n
+cast pearls before swine  	<p><font color=blue size=5><b>cast pearls before swine  </font></b>\n<br>对牛弹琴\n
+castrate	<p><font color=blue size=5><b>castrate</font></b>\n<br>[cas·trate || kæ'streɪt]\n<br>v.  阉割; 删除; 将去势\n
+castration	<p><font color=blue size=5><b>castration</font></b>\n<br>[cas'tra·tion || -eɪʃn]\n<br>n.  去势; 删改; 去雄; 阉割\n
+cast steel  	<p><font color=blue size=5><b>cast steel  </font></b>\n<br>铸钢\n
+casual	<p><font color=blue size=5><b>casual</font></b>\n<br>[cas·u·al || 'kæʒjʊəl]\n<br>n.  临时工人; 便鞋; 便装\n<br>adj.  偶然的, 便装的, 不经意的\n
+casually  	<p><font color=blue size=5><b>casually  </font></b>\n<br>adv.  偶然地; 若无其事地; 无意地\n
+casualness	<p><font color=blue size=5><b>casualness</font></b>\n<br>['cas·u·al·ness || 'kæʒʊəlnɪs]\n<br>n.  随便; 漫不经心\n
+casualty	<p><font color=blue size=5><b>casualty</font></b>\n<br>[cas·u·al·ty || 'kæʒjʊəltɪ]\n<br>n.  严重事故, 受害者, 伤亡\n
+casuist	<p><font color=blue size=5><b>casuist</font></b>\n<br>[cas·u·ist || 'kæzjʊɪst]\n<br>n.  决疑者; 诡辩家\n
+casuistic	<p><font color=blue size=5><b>casuistic</font></b>\n<br>[casu·is·tic || ‚kæzjʊ'ɪstɪk(l)]\n<br>adj.  决疑法的; 诡辩的\n
+casuistical  	<p><font color=blue size=5><b>casuistical  </font></b>\n<br>adj.  决疑的; 诡辩的\n
+casuistics  	<p><font color=blue size=5><b>casuistics  </font></b>\n<br>n.  决疑论; 良心论\n
+casuistry	<p><font color=blue size=5><b>casuistry</font></b>\n<br>['cas·u·ist·ry || 'kæʒʊɪstrɪ]\n<br>n.  决疑法; 诡辩; 决疑论\n
+casus  	<p><font color=blue size=5><b>casus  </font></b>\n<br>n.  事件; 案例\n
